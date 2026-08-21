@@ -496,12 +496,7 @@ function editSubject(subject) {
   editTask={editTask}
 />
 
-<TaskList
-  tasks={reminderTasks}
-  toggleTask={toggleTask}
-  deleteTask={deleteTask}
-  editTask={editTask}
-/>
+
 
                     <div className="progress">
                       <div className="progress-label">
